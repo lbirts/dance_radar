@@ -7,8 +7,8 @@
       "description": "20 years of experience in all forms of dance. Known for shiny outfits.",
       "likes": 23,
       "feedback": [
-        "Nice moves!",
-        "Never stop never stopping"
+        "Never stop never stopping",
+        "Cool Moves"
       ]
     },
     {
@@ -16,9 +16,10 @@
       "name": "Celery Man",
       "image": "https://media.giphy.com/media/WaZiz4UsM2lhu/giphy.gif",
       "description": "Dances with celery sticks on occasion, but not always.",
-      "likes": 2,
+      "likes": 0,
       "feedback": [
-        "This is giving me a headache."
+        "This is giving me a headache.",
+        "Ugh I cant!"
       ]
     },
     {
@@ -26,7 +27,7 @@
       "name": "Smoothie",
       "image": "https://66.media.tumblr.com/tumblr_lpgwzknviV1r0f8s0o1_250.gif",
       "description": "Practice makes smoothie!",
-      "likes": 0,
+      "likes": 9,
       "feedback": [
         "No lumps in there!",
         "Keep up the smooth moves"
@@ -41,7 +42,8 @@
       "feedback": [
         "Come to my birthday party please",
         "I like this",
-        "You are better than coffee!"
+        "You are better than coffee!",
+        "Great!"
       ]
     }
   ]
